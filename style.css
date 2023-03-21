@@ -1,0 +1,18 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    margin: 25px;
+    border-radius: 30px;
+    width: 100%;
+}
+
+canvas {
+    border-radius: 25px;
+    border-style: solid;
+    border-width: 5px;
+    border-color: gold;
+    box-shadow: 10px 10px 10px teal;
+}
