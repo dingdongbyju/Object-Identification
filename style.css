@@ -13,6 +13,13 @@ canvas {
     border-radius: 25px;
     border-style: solid;
     border-width: 5px;
-    border-color: gold;
+    border-color: #ffd700;
     box-shadow: 10px 10px 10px teal;
+}
+
+#back_btn {
+    bottom: 10;
+    position: fixed;
+    font-weight: bolder;
+    font-size: 25px;
 }

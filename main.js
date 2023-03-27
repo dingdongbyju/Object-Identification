@@ -1,15 +1,7 @@
-img = "";
-
-function preload() {
-    img = loadImage("hqdefault.jpg");
+function room1() {
+    window.location = "room1.html";
 }
 
-function setup() {
-    canvas = createCanvas(640, 420);
-    canvas.center();
-}
-
-function draw() {
-    image(img, 0, 0, 640, 420);
-    fill("#ffd700")
+function room2() {
+    window.location = "room2.html"
 }
